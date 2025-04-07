@@ -1,3 +1,4 @@
 !lista de permitidos hecha por mi
 
 ||earnvids.com^
+||streamwish.com^
